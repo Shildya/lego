@@ -1,6 +1,6 @@
 <template>
   <div>
-    première page
+    deuxième page
   </div>
 </template>
 
@@ -13,4 +13,3 @@ export default {
 <style>
 
 </style>
-

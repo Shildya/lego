@@ -12,10 +12,12 @@ export default {
 
 <style lang="scss" scoped>
 header {
-  position: relative;
+  position: fixed;
+  top: 0;
   width: 100%;
   height: 72px;
-  background-color: $test;
+  background-color: $supernova;
+  z-index: 12;
 }
 
 .logo {
